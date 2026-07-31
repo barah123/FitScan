@@ -1,7 +1,7 @@
 # FitScan
 
 <p align="center">
-  <img src="./www/app_logo.png" width="200" alt="FitScan logo" />
+  <img src="./www/app_logo.png" width="400" alt="FitScan logo" />
 </p>
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
@@ -101,12 +101,16 @@ Unlocks once 2+ participants are loaded: resting HR trend across participants, d
 
 ---
 
-<div align="center">
-  <img src="./www/scan1.png" width="420" />
-  <img src="./www/scan4.png" width="420" />
-  <img src="./www/scan2.png" width="420" />
-  <img src="./www/scan3.png" width="420" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="./www/scan1.png" width="420" /></td>
+    <td><img src="./www/scan4.png" width="420" /></td>
+  </tr>
+  <tr>
+    <td><img src="./www/scan2.png" width="420" /></td>
+    <td><img src="./www/scan3.png" width="420" /></td>
+  </tr>
+</table>
 
 ---
 
