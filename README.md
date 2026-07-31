@@ -1,6 +1,8 @@
 # FitScan
 
-![App Logo](./www/app_logo.png)
+<p align="center">
+  <img src="./www/app_logo.png" width="200" alt="FitScan logo" />
+</p>
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Built with R Shiny](https://img.shields.io/badge/built%20with-R%20Shiny-2a78d6)
@@ -100,10 +102,10 @@ Unlocks once 2+ participants are loaded: resting HR trend across participants, d
 ---
 
 <div align="center">
-  <img src="./www/scan1.png" width="45%" />
-  <img src="./www/scan4.png" width="45%" />
-  <img src="./www/scan2.png" width="45%" />
-  <img src="./www/scan3.png" width="45%" />
+  <img src="./www/scan1.png" width="420" />
+  <img src="./www/scan4.png" width="420" />
+  <img src="./www/scan2.png" width="420" />
+  <img src="./www/scan3.png" width="420" />
 </div>
 
 ---
